@@ -124,4 +124,10 @@ h1{
         flex-direction: column;
         font-size: 1em;
     }
+    .about-social {
+        flex-direction: column;
+        text-align: center;
+        padding: 0 20px;
+        margin-bottom: 20px;
+    }
 }
